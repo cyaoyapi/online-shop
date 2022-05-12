@@ -1,0 +1,13 @@
+.ols-cart {
+    width: 400px;
+    min-height: 400px;
+    margin: 10px;
+    background-color: olivedrab;
+    color: white;
+    padding: 10px;
+
+}
+
+.ols-number {
+    text-align: right;
+}
